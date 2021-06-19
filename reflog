@@ -1,0 +1,3 @@
+ApictoSole@DESKTOP-LSG165A MINGW64 ~/Test_45651 (main)
+$ git reflog
+0b5707e (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: clone: from https://github.com/ApictoSole/Test_45651.git
